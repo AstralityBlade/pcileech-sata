@@ -7,6 +7,8 @@ FPGA card looks like an sata/ata controller, but hides inside pcileech-fpga rese
 This firmware was created for researching purposes only.
 # Original project by ekknod based on Ulf Frisk pcileech-fpga project
 Original project can be found from https://github.com/ekknod/pcileech-wifi
+# Contacts
+- Selling some sources rn, contact me at discord if you're interested (astrality_blade)
 # Features
 - Operting with all IO bars
 - Self builded core with ip
