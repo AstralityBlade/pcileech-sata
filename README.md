@@ -16,6 +16,7 @@ Original project can be found from https://github.com/ekknod/pcileech-wifi
 - Emulation of "Fake/Virtual" disk
 # Notice
 - This version have some sort of anti-paste to prevent it from selling by idiots like(Shalfey/Decoded)
+- There's some bug with long boot (If you have a bsods on sturtup, disavle fastboot in bios) and that interrupts can't handle properly on win10 (If you dont know how to fix it, just use win11)
 # Credits
 - Ekknod
 - Ulf Frisk
